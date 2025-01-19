@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ポートフォリオ</title>
+    <meta name="description" content="練習">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="robots" content="noindex">
+</head>
+
+<body>
+    <div class="header w_inner">
+ 
+        <ul>
+           <li><a href="index.html">トップ</a></li>
+           <li><a href="">経歴</a></li>
+           <li><a href="">作品１</a></li>
+           <li><a href="">作品２</a></li>
+           <li><a href="">作品３</a></li>
+           <li><a href="">お問合せ</a></li>
+        </ul>
+    </div>
+    
+    <div class="container w_inner">
+        <div class="header_img">
+            <img src="img/header.jpg" alt="">
+
+    </div>
+
+        <div class="container_service">
+            <h2>作品紹介<br>※　作品紹介のページは作成していないため<br>詳細はポートフォリオでご確認ください。</h2>
+            <div class="service_block">
+                <div class="service">
+                  <img src="img/service_1.png" alt="1">
+                  <div class="ttl">作品１<br>THERMOS<br>マークデザインコンテスト</div>
+                  <div class="explain">募集期間：2024年9月1日～10月31日<br>結果発表：2024年12月</div>
+                 <a href="">続きはこちら</a>
+                </div>
+
+                 <div class="service_block">
+                <div class="service">
+                  <img src="img/service_2.png" alt="1">
+                  <div class="ttl">作品２<br>「じゃがりこ細いやつ」<br>グッズデザインコンテスト</div>
+                  <div class="explain">募集期間：2024年10月4日～11月29日<br>結果発表：2025年1月中下旬</div>
+                 <a href="">続きはこちら</a>
+                </div>
+
+                 <div class="service_block">
+                    <div class="service">
+                      <img src="img/service_3.png" alt="1">
+                      <div class="ttl">作品3<br><br>Metro Ad Creative Award</div>
+                      <div class="explain">募集期間：2024年9月25日～12月25日<br>結果発表：2025年3月下旬</div>
+                     <a href="">続きはこちら</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="pp_link w_inner">
+            <a href="">個人情報保護方針</a>
+        </div>
+        <div class="copy">
+            &copy;2025 0119
+        </div>
+    </div>
+
+
+</body>
+
+</html>
